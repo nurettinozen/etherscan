@@ -8,4 +8,4 @@ The minimum requirement by EtherScan API Integration is that your Web server sup
 Donate
 -----
 You can support this project by continuously donations to
- * BTC wallet: `3Aha1T5RtFMpHiXFez4F54HRYRjadm3zT5`
+ * BTC wallet: 1NtPzK88GyJUEYNqLu5a2eye1Pewt2xYm6
